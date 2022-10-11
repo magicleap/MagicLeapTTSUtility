@@ -1,0 +1,18 @@
+{
+  "name": "com.magicleap.ttsutil",
+  "displayName": "Magic Leap TTS Utility",
+  "version": "0.1.0",
+  "unity": "2022.2",
+  "description": "Utilities for working with text-to-speech (TTS) on the Magic Leap 2.",
+  "license": "https://www.magicleap.com/software-license-agreement-ml2",
+  "keywords": [],
+  "dependencies": {
+  },
+  "samples": [
+    {
+        "displayName": "Sample Scene",
+        "description": "A scene that shows how to use the Text To Speech Utility.",
+        "path": "Samples~/TTS_Sample"
+    }
+  ]
+}
